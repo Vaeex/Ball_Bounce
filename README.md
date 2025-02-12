@@ -4,11 +4,11 @@ Ball Bounce is a simple and mesmerizing game where a ball must cross rotating ci
 
 ## 🕹️ Features
 
-✔️ Gravity system and elastic ball bounce
-✔️ Dynamically generated levels with rotating circles
-✔️ Visual effects: gradients, ball trail, particles
-✔️ Easily modifiable game settings (`settings` in the code)
-✔️ Optimized with `pygame.gfxdraw` for smooth renderings
+✔️ Gravity system and elastic ball bounce 
+✔️ Dynamically generated levels with rotating circles 
+✔️ Visual effects: gradients, ball trail, particles 
+✔️ Easily modifiable game settings (`settings` in the code) 
+✔️ Optimized with `pygame.gfxdraw` for smooth renderings 
 
 ## 📦 Installation
 
