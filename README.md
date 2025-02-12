@@ -39,5 +39,5 @@ Ball Bounce est un jeu simple et hypnotisant où une balle doit traverser des ce
    ```
 
 
-(Ce script a été fait grâce à ChatGPT avec divers prompt hehe 😁)
+(Ce script a été fait grâce à ChatGPT avec divers prompt hehe 😁)  
 (This script was made using ChatGPT with various prompts hehe 😁)
