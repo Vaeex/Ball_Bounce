@@ -16,6 +16,7 @@ Ball Bounce is a simple and mesmerizing game where a ball must cross rotating ci
 ```bash
 pip install pygame
 ```
+(This script was made using ChatGPT with various prompts hehe 😁)  
 
 ----------------------------------------------------------------------------------------
 
@@ -40,4 +41,3 @@ Ball Bounce est un jeu simple et hypnotisant où une balle doit traverser des ce
 
 
 (Ce script a été fait grâce à ChatGPT avec divers prompt hehe 😁)  
-(This script was made using ChatGPT with various prompts hehe 😁)
