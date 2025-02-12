@@ -18,6 +18,7 @@ pip install pygame
 ```
 (This script was made using ChatGPT with various prompts hehe 😁)  
 
+
 ----------------------------------------------------------------------------------------
 
 # 🎾 Ball Bounce - Jeu de balle en Pygame  
